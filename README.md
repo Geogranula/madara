@@ -487,3 +487,5 @@ special requests, feel free to reach us on [Telegram](https://t.me/madara-allian
 
 Madara is open-source software licensed under the
 [Apache-2.0 License](https://github.com/madara-alliance/madara/blob/main/LICENSE).
+
+trade4fun
